@@ -6,9 +6,18 @@ qrstuvw
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Portfólio de Maria Silva</title>
-<meta name="description" content="Portfólio simples feito em HTML puro.">
-</head>
+<header>
+
+<h1>Portfólio de Rodolfo</h1>
+<p>Estudante de desenvolvimento web — HTML, CSS e JavaScript.</p>
+<nav aria-label="Navegação principal">
+<ul>
+<li><a href="#sobre">Sobre</a></li>
+<li><a href="#projetos">Projetos</a></li>
+<li><a href="#contato">Contato</a></li>
+</ul>
+</nav>
+</header>
 <body>
 <!-- Conteúdo vem a seguir -->
 </body<!doctype html>
@@ -18,12 +27,6 @@ qrstuvw
 </article>
 </section>-BR">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Portfólio de Rodolfo</title>
-<meta name="description" content="Portfólio simples feito em HTML puro.">
-</head>
-<body>
 <!-- Conteúdo vem a seguir -->
 </body>
 </html>>
@@ -34,13 +37,9 @@ qrstuvw
 <p>Projeto básico com listas e links.</p>
 <section id="sobre">
 <h2>Sobre</h2>
-<figure>
-<img src="https://via.placeholder.com/240" alt="Retrato de Maria sorrindo
-de frente.">
-<figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
-Olá! Sou a Maria e estou começando no desenvolvimento web.
+Olá! Sou o Rodolfo e estou começando no desenvolvimento web.
 Gosto de aprender criando projetos simples e práticos.
 </p>
 </section>
@@ -56,10 +55,6 @@ target="_blank" rel="noopener">
 MDN Web Docs
 </a>.
 </p>
-</article>
-<article><article>
-<h3>Página de Receitas</h3>
-<p>Estruturação de conteúdo com títulos, parágrafos e imagens.</p>
 </article>
 </section>
 <section id="contato">
@@ -82,7 +77,5 @@ required></textarea>
 <button type="submit">Enviar</button>
 </p>
 </form>
-</section></main>
-<footer>
-<small>&copy; 2025 Maria Silva. Todos os direitos reservados.</small>
-</footer>
+</section>
+
